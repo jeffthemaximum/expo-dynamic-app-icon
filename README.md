@@ -9,7 +9,7 @@ Programmatically change the app icon in Expo.
 ## Install
 
 ```
-npx expo install expo-dynamic-app-icon
+npx expo install expo-dynamic-app-icon-testfork
 ```
 
 ## Set icon file
